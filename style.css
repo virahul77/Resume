@@ -248,7 +248,7 @@ body {
     .main-content {
         flex-direction: column;
         justify-content: center;
-        width: 90vw;
+        width: 95vw;
         margin: auto;
     }
     .left-section{
@@ -258,13 +258,13 @@ body {
         width: 100%;
     }
     .left-content{
-        padding: 2rem;
+        padding: 1.8rem;
     }
     .right-title::after{
-        width: 45%;
+        width: 40%;
     }
     .right-main-content{
-        padding: 2rem;
+        padding: 1.8rem;
     }
     .tl-title,.tl-title-2{
         font-size: 1.2rem;
