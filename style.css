@@ -257,5 +257,14 @@ body {
     .right-section{
         width: 100%;
     }
+    .left-content{
+        padding: 2rem;
+    }
+    .right-title::after{
+        width: 35%;
+    }
+    .right-main-content{
+        padding: 2rem;
+    }
 }
 
