@@ -36,22 +36,58 @@ Q-> What does success mean to you?
     To fullfill my duties toward my family, freinds or worlds.
     Success has no deadline.
 Q-> What is the difference between ""Group"" and ""Team""?
+    A team is a number of people who work together to accomplish a shared purpose or goal. Each team is the sum of its parts, which means members of the team rely on one another to accomplish the outcome.
+
+    In short, a group is a number of people who work together. They have individual goals that they work toward collectively. While groups work toward separate goals, they have a related interest or identity that brings them together.
+
+    In a work group, group members are independent from one another and have individual accountability. On the other hand, in a team, team members share a mutual accountability and work closely together to solve problems. These dynamics inform the way tasks are handled and overall collaboration. 
+    In a work group, group members are independent from one another and have individual accountability. On the other hand, in a team, team members share a mutual accountability and work closely together to solve problems. These dynamics inform the way tasks are handled and overall collaboration. 
 
 Q-> How do you work with an unreliable teammate?
+    Identify employee behaviour
+    Identify cause and understanding action 
+    Communicate with team for solution
+    Informing seniour authority if neccessary or out of control means take propriate action
 
 Q-> How do you handle constructive criticism?
+    Avoid immediately reacting. Feedback can engage our fight or flight response and turn a theoretically helpful session into an adrenaline-filled challenge. Before responding, take a deep breath and resist the urge to react, respond, or argue.
 
-Q-> Would you hide the truth your employer asks you to?
+    If need be, remind yourself that constructive criticism can help you improve. Even if you didn’t know this feedback was coming, try to remember that this constructive criticism is being offered with your best interests at heart.
+
+    Listen to understand—not to respond. When someone is offering constructive criticism, listen without formulating a reply or a defensive response to the feedback. Keep in mind that the person is offering feedback in order to try to help you, and try to listen with an open mind.
+
+    Connect the feedback to your role, not to yourself. Feedback feels personal because we think people are criticizing us. But in a business setting, constructive criticism is usually based on your role. Good feedback can help you improve in your job and often isn’t as personal as it feels.
+
+    Thank the person giving you feedback. Giving constructive feedback is hard. Thank the person for their energy and effort in helping you improve.
+
+    Ask questions, but don’t challenge the feedback. Though you shouldn’t challenge or refute the feedback, it’s ok to ask questions and brainstorm how you can improve. If you aren’t ready to ask questions immediately after receiving critical feedback, that’s ok too. Set a follow up meeting to chat more about how you can improve
+    Q-> Would you hide the truth your employer asks you to?
 
 Q-> Describe yourself in one word.
+    I consider my a practical person. I like to react situalion accordingly and with all my experience and current situalion
 
-Q-> Do you read?"
+
+Q-> Do you read?
+    Yes i like to read about interested fiels usually like automobiles, technonogy , science, sport. It it includes more of a digital media,
+    newpapers sometime
 
 1. What are your key Strengths & Weakness?
+    
 2. What are your greatest achievements?
+    My last job we have a deadline project to accomplish task of achieve 5 floor in 2 months which required a team work and pushing ourself 
+    I was glad to accomplish it within time.
+    And when in decided to make into web development i started with self learning then joined Newton School to get professinal training from
+    experienced and revellant skillsets I have cosistently top performer of my batch and even got selected in advance dsa batch. 
+    i had no prior knowledge of java and dsa but in learning phase i made pushed myself harder and result was great.
+    even now i been top performer in batch.
+
 3. What are your future goals?
+    My long-term goal is to see myself handling challenging responsibilities and working in multiple domains and having a stable financial background.
+    
 4. On a scale of 1-10, how would you rate yourself on grounds of your skills required for this position?
+    I would rate myself 8
 5. What do you think about improvement areas?
+    
 6. What have you done to improve yourself?
 7. Was your work ever criticized? What did you do?
 8. Did you face any problems in your last role?
