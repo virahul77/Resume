@@ -77,9 +77,18 @@ body {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #f7f7f7ec;
-    padding-top: 3rem;
+    padding-top: 2rem;
 }
-
+.interest-section li{
+    /* text-transform: none; */
+    margin: 0.7rem 0;
+}
+.para-profile{
+    line-height: 1.6rem;
+    color: rgb(165, 199, 223);
+    font-size: 1.1rem;
+    margin-top: 1rem;
+}
 .contact-info ul {
     padding-top: 2rem;
 }
@@ -98,7 +107,7 @@ body {
 }
 
 .skills-section ul {
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 
 .skills-section ul li {
