@@ -25,7 +25,7 @@ Q-> Introduce yourself.
 
     Thank you again for this opportunity.
 Q-> What are your strengths and weaknesses?
-    Coming to my stength I am quick learner and problem solver. I have been good in my acadmics specially in maths. I can come with new Ideas and ways to solve the problems.
+    Coming to my stength I am quick learner and a good problem solver. I have been good in my acadmics specially in maths. I can come with new Ideas and ways to solve the problems.
     My weakness are i am emotional person and overthink in some situalions but i can say I have came a long way.
 
 
@@ -64,7 +64,7 @@ Q-> How do you handle constructive criticism?
     Q-> Would you hide the truth your employer asks you to?
 
 Q-> Describe yourself in one word.
-    I consider my a practical person. I like to react situalion accordingly and with all my experience and current situalion
+    I consider my a practical person. I like to react situalion accordingly and with all my experience and current situalion.
 
 
 Q-> Do you read?
@@ -87,14 +87,38 @@ Q-> Do you read?
 4. On a scale of 1-10, how would you rate yourself on grounds of your skills required for this position?
     I would rate myself 8
 5. What do you think about improvement areas?
+    I would say in technaical field a i want to get comfirtable with node and reactjs advance concepts application of neccessary quickly
+    And that would centainerly come up with experience
     
 6. What have you done to improve yourself?
+    I started watching myself like continoulsy and having self observation of my action, what i do everday and how my passing. 
+    I questions myself and anylise. this way i get idea to improve myself. Also i take suggestions from senior , mentor, and friends.
 7. Was your work ever criticized? What did you do?
+    past experience i  have been criticized for some of action plan. project was to achieve quick and also quality result in constrution 
+    in bw them i given edge to speed over quality. i got some criticism from client and also from my manager.
+    then i decided to make a balance bw them.
+
 8. Did you face any problems in your last role?
+    I didn’t faced any problem for role although my role was time inconsistence. I always has interese in technolgy and computer field 
+    when i started 
 9. Do you prefer to work alone or in a team?
+    I am comfirtable with both but prefer to work in team. A team is always greater than sum of individual. I remember a quote in my company none of us better than all of us. 
+
 10. How do you handle stress?
+    try stay calm in its peek stage like silent observer of yourself
+    take care of myself
+    take a break if neccessary
+    do the things i enjoy
+    talk to other whom i consider they can give suggestions like friends family teacher mentor
+    when i beame calm anylise root cause of stress and think of its optimum solution
+
 11. How important is work-life balance to you?
 12. In case you have two offers in hand how will you choose one?
+    First of all I would give prefence to my interset work field. Then I would choose accoring to learning apportualy, skill improvement opportunity and which provide me more career growth opportunities.
 13. What holds more importance for you: work or money?
+    “As a parent, I definitely think about earning enough money to make ends meet. Still, I believe that choosing a job that I enjoy and am good at will make me happier in the long run. I like working with my hands and enjoy doing work that helps me improve my skills, and that drives me to keep doing my best.”
 14. What makes you unique?
+    I really enjoy learning new things and am constantly seeking out new learning opportunities. I always strive to better my skills 
+    I am good problem solver and can came up with new and effective ideas which is essiantialy required specially in coding field.
 15. Tell me about the toughest decision you had to make in the last six months?
+    for me its decision to leave my current field ie civil enginner and make it into it sector/ web develpoer. my its my passion when i started to try out this i realised i would be more happy working in this domain and working in field where my interest lies 
